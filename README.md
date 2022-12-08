@@ -25,8 +25,11 @@
 
 ## 📟 GitHub Stats
 <p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Madhav-Sai&show_icons=true&theme=vue" />
-	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Madhav-Sai&theme=vue" />
+	<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Madhav-Sai&show_icons=true" alt="Madhav" /></p>
+	<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Madhav-Sai&" alt="Madhav" /></p>
+
+
+	
 </p>
 
 ### ✍️Random Dev Quote
