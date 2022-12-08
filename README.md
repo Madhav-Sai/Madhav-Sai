@@ -3,13 +3,13 @@
          height="45"
          width="45" /> I'm Madhav Sai</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Madhav-Sai&label=Views&color=blue&style=plastic&style=for-the-badge" alt="iampawan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Madhav-Sai&label=Views&color=blue&style=plastic&style=for-the-badge" alt="Madhav" /> </p>
 
  📫 How to reach me: Check social links below.
 
 
 ## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/madhavsai_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhava-rao-runku-437662170/) [![Medium] [![Twitter](https://img.shields.io/twitter/follow/imthepk?logo=Twitter&style=for-the-badge)](https://twitter.com/madhavsai_cs)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/madhavsai_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhava-rao-runku-437662170/) [![Twitter](https://img.shields.io/twitter/follow/imthepk?logo=Twitter&style=for-the-badge)](https://twitter.com/madhavsai_cs)
 
 ## 💻 Tech Stack
 !![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) !
@@ -17,13 +17,6 @@
 
 
 
-
-
-
-## 📈 Activity Graph
-<p align="center">
-	<img src="https://activity-graph.herokuapp.com/graph?username=Madhav-Sai&theme=minimal"/>
-</p>
 
 ## 💳 Github Profile Summary Card
 <p align="center">
